@@ -1,0 +1,3 @@
+The useMemo() hook takes two main arguments:
+1. function: This function returns the value you want to memoize(remember). It could be an expensize calculation.
+2. Dependencies array: This is an array of dependencies that determine when the function should be recalculated.

@@ -1,0 +1,11 @@
+# Virtual environments and other temporary directories
+env/
+venv/
+.venv/
+
+# Python-specific files
+__pycache__/
+*.pyc
+
+# Other common files to ignore
+.vscode/

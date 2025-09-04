@@ -1,0 +1,111 @@
+2025-08-02 02:40:03,476 | INFO | Scraper job completed. Scheduling course-saver job for run at 2025-08-02 02:41:03.476304
+2025-08-02 02:41:03,858 | INFO | Processed file ../raw_courses/discudemy_20250802_0140.json. Total: 15, Accepted: 14, Rejected: 0.
+2025-08-04 14:47:06,696 | INFO | Scraper job completed. Scheduling course-saver job for run at 2025-08-04 14:48:06.696612
+2025-08-04 14:48:08,154 | INFO | Processed file ../raw_courses/discudemy_20250804_1347.json. Total: 15, Accepted: 15, Rejected: 0.
+2025-08-06 23:21:44,452 | INFO | Scraper job completed. Scheduling course-saver job for run at 2025-08-06 23:22:44.452195
+2025-08-06 23:22:45,190 | INFO | Processed file ../raw_courses/discudemy_20250806_2221.json. Total: 15, Accepted: 10, Rejected: 5.
+2025-08-06 23:56:46,297 | INFO | Scraper job completed. Scheduling course-saver job for run at 2025-08-06 23:57:46.297161
+2025-08-07 00:02:13,996 | INFO | Scraper job completed. Scheduling course-saver job for run at 2025-08-07 00:03:13.996992
+2025-08-07 00:03:16,767 | INFO | Processed file ../raw_courses/discudemy_20250806_2302.json. Total: 15, Accepted: 1, Rejected: 14.
+2025-08-07 00:06:20,360 | INFO | Scraper job completed. Scheduling course-saver job for run at 2025-08-07 00:07:20.360925
+2025-08-07 00:07:20,488 | INFO | Processed file ../raw_courses/discudemy_20250806_2306.json. Total: 14, Accepted: 0, Rejected: 14.
+2025-08-07 00:19:37,033 | INFO | Scraper job completed. Scheduling course-saver job for run at 2025-08-07 00:20:37.033973
+2025-08-07 00:20:38,518 | INFO | Processed file ../raw_courses/discudemy_20250806_2319.json. Total: 15, Accepted: 0, Rejected: 15.
+2025-08-07 00:36:15,738 | INFO | Scraper job completed. Scheduling course-saver job for run at 2025-08-07 00:37:15.738396
+2025-08-07 00:37:15,925 | INFO | Processed file ../raw_courses/discudemy_20250806_2336.json. Total: 15, Accepted: 2, Rejected: 13.
+2025-08-07 00:41:53,983 | INFO | Scraper job completed. Scheduling course-saver job for run at 2025-08-07 00:42:53.983671
+2025-08-07 00:43:33,276 | INFO | Scraper job completed. Scheduling course-saver job for run at 2025-08-07 00:44:33.276175
+2025-08-07 00:44:33,952 | INFO | Processed file ../raw_courses/discudemy_20250806_2343.json. Total: 15, Accepted: 0, Rejected: 15.
+2025-08-07 20:13:02,502 | INFO | Scraper job completed. Scheduling course-saver job for run at 2025-08-07 20:14:02.502833
+2025-08-07 20:14:03,333 | INFO | Processed file ../raw_courses/discudemy_20250807_1913.json. Total: 15, Accepted: 10, Rejected: 5.
+2025-08-07 20:21:18,436 | INFO | Scraper job completed. Scheduling course-saver job for run at 2025-08-07 20:22:18.436403
+2025-08-07 20:22:45,708 | INFO | Scraper job completed. Scheduling course-saver job for run at 2025-08-07 20:23:45.708277
+2025-08-07 20:23:46,424 | INFO | Processed file ../raw_courses/discudemy_20250807_1922.json. Total: 15, Accepted: 2, Rejected: 13.
+2025-08-07 20:36:53,587 | INFO | Scraper job completed. Scheduling course-saver job for run at 2025-08-07 20:37:53.587146
+2025-08-07 20:40:08,633 | INFO | Scraper job completed. Scheduling course-saver job for run at 2025-08-07 20:41:08.633084
+2025-08-07 20:44:36,871 | INFO | Scraper job completed. Scheduling course-saver job for run at 2025-08-07 20:45:36.871144
+2025-08-07 20:45:37,040 | INFO | Processed file ../raw_courses/discudemy_20250807_1944.json. Total: 14, Accepted: 2, Rejected: 12.
+2025-08-07 20:48:03,603 | INFO | Scraper job completed. Scheduling course-saver job for run at 2025-08-07 20:49:03.603904
+2025-08-07 20:50:14,000 | INFO | Scraper job completed. Scheduling course-saver job for run at 2025-08-07 20:51:14.000514
+2025-08-07 20:59:12,950 | INFO | Scraper job completed. Scheduling course-saver job for run at 2025-08-07 21:00:12.950210
+2025-08-08 19:35:16,724 | INFO | Scraper job completed. Scheduling course-saver job for run at 2025-08-08 19:36:16.724619
+2025-08-08 19:39:40,208 | INFO | Scraper job completed. Scheduling course-saver job for run at 2025-08-08 19:40:40.208516
+2025-08-08 19:40:40,394 | INFO | Processed file ../raw_courses/discudemy_20250808_1839.json. Total: 15, Accepted: 14, Rejected: 1.
+2025-08-08 19:48:38,292 | INFO | Scraper job completed. Scheduling course-saver job for run at 2025-08-08 19:49:38.292845
+2025-08-08 19:49:39,370 | INFO | Processed file ../raw_courses/discudemy_20250808_1848.json. Total: 15, Accepted: 0, Rejected: 15.
+2025-08-08 20:06:23,205 | INFO | Scraper job completed. Scheduling course-saver job for run at 2025-08-08 20:07:23.205323
+2025-08-08 20:07:50,023 | INFO | Scraper job completed. Scheduling course-saver job for run at 2025-08-08 20:08:50.023553
+2025-08-08 20:08:50,208 | INFO | Processed file ../raw_courses/discudemy_20250808_1907.json. Total: 15, Accepted: 2, Rejected: 13.
+2025-08-09 03:21:43,857 | INFO | Scraper job completed. Scheduling course-saver job for run at 2025-08-09 03:22:43.857219
+2025-08-09 03:22:44,469 | INFO | Processed file ../raw_courses/discudemy_20250809_0221.json. Total: 15, Accepted: 13, Rejected: 2.
+2025-08-09 03:26:24,305 | INFO | Scraper job completed. Scheduling course-saver job for run at 2025-08-09 03:27:24.305075
+2025-08-09 03:30:46,476 | INFO | Scraper job completed. Scheduling course-saver job for run at 2025-08-09 03:31:46.476810
+2025-08-09 03:32:43,181 | INFO | Scraper job completed. Scheduling course-saver job for run at 2025-08-09 03:33:43.181404
+2025-08-09 03:33:43,379 | INFO | Processed file ../raw_courses/discudemy_20250809_0232.json. Total: 15, Accepted: 1, Rejected: 14.
+2025-08-09 03:43:45,517 | INFO | Scraper job completed. Scheduling course-saver job for run at 2025-08-09 03:44:45.517242
+2025-08-09 03:44:45,999 | INFO | Processed file ../raw_courses/discudemy_20250809_0243.json. Total: 15, Accepted: 0, Rejected: 15.
+2025-08-09 04:28:56,882 | INFO | Scraper job completed. Scheduling course-saver job for run at 2025-08-09 04:29:56.882263
+2025-08-09 04:29:57,562 | INFO | Processed file ../raw_courses/discudemy_20250809_0328.json. Total: 15, Accepted: 3, Rejected: 12.
+2025-08-30 17:47:57,268 | INFO | Scraper job completed. Scheduling course-saver job for run at 2025-08-30 17:48:57.268295
+2025-08-30 17:48:57,554 | INFO | Processed file ../raw_courses/discudemy_20250830_1647.json. Total: 15, Accepted: 15, Rejected: 0.
+2025-08-31 00:55:25,570 | INFO | Scraper job completed. Scheduling course-saver job for run at 2025-08-31 00:56:25.570683
+2025-08-31 00:56:25,933 | INFO | Processed file ../raw_courses/discudemy_20250830_2355.json. Total: 12, Accepted: 0, Rejected: 12.
+2025-08-31 01:53:23,322 | INFO | Scraper job completed. Scheduling course-saver job for run at 2025-08-31 01:54:23.322485
+2025-08-31 01:54:23,487 | INFO | Processed file ../raw_courses/discudemy_20250831_0053.json. Total: 15, Accepted: 12, Rejected: 3.
+2025-08-31 05:54:33,613 | INFO | Scraper job completed. Scheduling course-saver job for run at 2025-08-31 05:55:33.613829
+2025-08-31 05:55:34,079 | INFO | Processed file ../raw_courses/discudemy_20250831_0454.json. Total: 15, Accepted: 15, Rejected: 0.
+2025-09-02 11:12:36,838 | INFO | Deleting old processed files...
+2025-09-02 11:12:36,841 | INFO | Deleting file ../raw_courses\PROCESSED_discudemy_20250830_1647.json
+2025-09-02 11:12:36,864 | INFO | Deleting file ../raw_courses\PROCESSED_discudemy_20250830_2355.json
+2025-09-02 11:12:37,033 | INFO | Deleting file ../raw_courses\PROCESSED_discudemy_20250831_0053.json
+2025-09-02 11:12:37,099 | INFO | Deleting file ../raw_courses\PROCESSED_discudemy_20250831_0454.json
+2025-09-02 11:17:35,537 | INFO | Deleting old PROCESSED files...
+2025-09-02 11:17:35,539 | INFO | Deleting file ../raw_courses\PROCESSED_discudemy_20250830_1647.json
+2025-09-02 11:17:35,540 | INFO | Deleting file ../raw_courses\PROCESSED_discudemy_20250830_2355.json
+2025-09-02 11:17:35,540 | INFO | Deleting file ../raw_courses\PROCESSED_discudemy_20250831_0053.json
+2025-09-02 11:17:35,541 | INFO | Deleting file ../raw_courses\PROCESSED_discudemy_20250831_0454.json
+2025-09-02 11:17:35,541 | INFO | Deleted 4 files successfully
+
+2025-09-02 11:22:22,191 | INFO | Deleting old PROCESSED files...
+2025-09-02 11:22:22,193 | INFO | Deleted 0 files successfully
+2025-09-02 11:23:12,515 | INFO | Deleting old PROCESSED files...
+2025-09-02 11:23:12,521 | INFO | Deleted 0 files.
+2025-09-02 11:44:21,188 | INFO | Deleting old PROCESSED files...
+2025-09-02 11:44:21,189 | INFO | Deleted 0 files.
+2025-09-02 12:12:40,787 | INFO | Deleting old PROCESSED files...
+2025-09-02 12:14:08,624 | INFO | Deleting old PROCESSED files...
+2025-09-02 12:14:08,629 | INFO | Deleted 0 files.
+2025-09-02 12:14:08,629 | INFO | Deleting file ../logs\logs_25_2217.log
+2025-09-02 12:14:08,640 | INFO | Deleting file ../logs\logs_25_2226.log
+2025-09-02 12:14:08,646 | INFO | Deleting file ../logs\logs_discudemy_20250801_2352.log
+2025-09-02 12:14:08,656 | INFO | Deleting file ../logs\logs_discudemy_20250802_0140.log
+2025-09-02 12:14:08,656 | INFO | Deleting file ../logs\logs_discudemy_20250804_1347.log
+2025-09-02 12:14:08,671 | INFO | Deleting file ../logs\logs_discudemy_20250806_2221.log
+2025-09-02 12:14:08,671 | INFO | Deleting file ../logs\logs_discudemy_20250806_2302.log
+2025-09-02 12:14:08,687 | INFO | Deleting file ../logs\logs_discudemy_20250806_2306.log
+2025-09-02 12:14:08,696 | INFO | Deleting file ../logs\logs_discudemy_20250806_2319.log
+2025-09-02 12:14:08,703 | INFO | Deleting file ../logs\logs_discudemy_20250806_2336.log
+2025-09-02 12:14:08,722 | INFO | Deleting file ../logs\logs_discudemy_20250806_2343.log
+2025-09-02 12:14:08,722 | INFO | Deleting file ../logs\logs_discudemy_20250807_1913.log
+2025-09-02 12:14:08,735 | INFO | Deleting file ../logs\logs_discudemy_20250807_1922.log
+2025-09-02 12:14:08,746 | INFO | Deleting file ../logs\logs_discudemy_20250807_1944.log
+2025-09-02 12:14:08,751 | INFO | Deleting file ../logs\logs_discudemy_20250808_1839.log
+2025-09-02 12:14:08,751 | INFO | Deleting file ../logs\logs_discudemy_20250808_1848.log
+2025-09-02 12:14:08,766 | INFO | Deleting file ../logs\logs_discudemy_20250808_1907.log
+2025-09-02 12:14:08,766 | INFO | Deleting file ../logs\logs_discudemy_20250809_0221.log
+2025-09-02 12:14:08,782 | INFO | Deleting file ../logs\logs_discudemy_20250809_0232.log
+2025-09-02 12:14:08,782 | INFO | Deleting file ../logs\logs_discudemy_20250809_0243.log
+2025-09-02 12:14:08,798 | INFO | Deleting file ../logs\logs_discudemy_20250809_0328.log
+2025-09-02 12:14:08,798 | INFO | Deleted 21 files.
+2025-09-02 12:16:07,185 | INFO | Deleting old PROCESSED files...
+2025-09-02 12:16:07,200 | INFO | Deleted 0 files.
+2025-09-02 12:16:07,200 | INFO | Deleted 0 files.
+2025-09-02 12:16:31,918 | INFO | Deleting old PROCESSED files...
+2025-09-02 12:16:31,918 | INFO | Deleted 0 files.
+2025-09-02 12:16:31,918 | INFO | Deleted 0 files.
+2025-09-04 05:43:56,334 | INFO | Deleting old PROCESSED files...
+2025-09-04 05:43:56,334 | INFO | Deleted 0 files.
+2025-09-04 05:43:56,349 | INFO | Deleted 0 files.
+2025-09-04 05:50:16,043 | INFO | Deleting old PROCESSED files...
+2025-09-04 05:50:16,043 | INFO | Deleted 0 files.
+2025-09-04 05:50:16,053 | INFO | Deleted 0 files.

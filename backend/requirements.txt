@@ -1,0 +1,9 @@
+fastapi[all]
+sqlalchemy
+alembic
+psycopg2-binary
+python-dotenv
+python-jose[cryptography]
+passlib[bcrypt]
+httpx
+apscheduler
